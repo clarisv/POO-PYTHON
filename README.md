@@ -1,6 +1,6 @@
-Lista de Atividades propostas ao longo do curso de POO.
+# Lista de Atividades propostas ao longo do curso de POO.
 
-## exemplo_class.py ##
+# exemplo_class.py 
 
 Implemente uma classe chamada Carro com os atributos básicos, como modelo, cor e ano. 
 Crie uma instância dessa classe e atribua valores aos seus atributos.
